@@ -1,7 +1,7 @@
 # bullseye
 SwiftUI
 IOS Apps
-- Learning tuto
+ / Learning tuto
 - Pop up
 - Random number
 - Calculate and show score
